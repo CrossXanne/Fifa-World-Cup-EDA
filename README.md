@@ -6,16 +6,22 @@ Data analysis can be used to gain valuable insights into the FIFA World Cup. Dat
 
 Our Dataset includes Data of All World Cup Players, Matches & Results from 1930 FIFA World Cup to the 2014 FIFA World Cup.
 
-In this analysis, we will use FIFA World Cup data to explore a variety of topics:\n
+In this analysis, we will use FIFA World Cup data to explore a variety of topics:
+
 => Most Number of World Cup Winning Title 
 
 => Number of Goal Per Country 
 
-=> Attendance, Number of Teams, Goals, and Matches per Cup \n
-=> Goals Per Team Per World Cup \n
-=> Matches With Highest Number Of Attendance \n
-=> Stadium with Highest Average Attendance \n
-=> Which countries had won the cup? (Podium Count) \n
+=> Attendance, Number of Teams, Goals, and Matches per Cup 
+
+=> Goals Per Team Per World Cup 
+
+=> Matches With Highest Number Of Attendance 
+
+=> Stadium with Highest Average Attendance 
+
+=> Which countries had won the cup? (Podium Count) 
+
 => Match outcome by home and away teams
 
 Such In-depth analysis provides a detailed overview or description of Football World Cups which can be interesting for football fans all over the world. 
